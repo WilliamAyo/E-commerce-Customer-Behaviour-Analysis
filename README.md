@@ -48,3 +48,6 @@ strategies, and expanding personalized recommendation systems.
 ### Business Impact 
 These actions can reduce cart abandonment, improve customer experience, and 
 increase overall conversion rates.
+
+Thank you!
+😄😄😄
