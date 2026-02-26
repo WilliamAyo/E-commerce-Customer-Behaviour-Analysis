@@ -19,7 +19,10 @@ The dataset contains a total of 602 customer responses covering demographics,
 browsing habits, personalization, and cart behaviour. It is noteworthy that more than 
 58% of the customers are females, and out of the total customers, 275 are Gen Z. 
 These figures will skew the analysis to show a high presence of females and Gen Z in 
-most of the insights.  
+most of the insights.
+
+### Tool(s)
+- Microsoft Excel
 
 ### Problem Statement 
 High cart abandonment is limiting revenue growth. The business needs to identify 
